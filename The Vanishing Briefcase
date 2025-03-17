@@ -1,0 +1,6 @@
+SELECT * 
+FROM interviews 
+JOIN suspects ON interviews.suspect_id = suspects.id 
+WHERE transcript IS NOT NULL 
+AND scar = 'left cheek' 
+AND attire = 'trench coat';
