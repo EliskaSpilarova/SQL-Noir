@@ -1,0 +1,14 @@
+select *
+from crime_scene
+where date = '19830715' AND
+type = 'theft';
+
+select *
+from witnesses
+where clue like '%store%';
+
+select *
+from interviews
+join suspects on interviews.suspect_id = suspects.id 
+where transcript is not null and
+bandana_color = 'red';
