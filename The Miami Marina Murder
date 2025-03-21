@@ -1,0 +1,4 @@
+select *
+from crime_scene
+where date = '19860814' and
+location = 'Coral Bay Marina';
