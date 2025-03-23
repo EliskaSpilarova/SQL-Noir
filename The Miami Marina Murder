@@ -2,3 +2,12 @@ select *
 from crime_scene
 where date = '19860814' and
 location = 'Coral Bay Marina';
+
+select *
+from person
+where address LIKE '%Ocean Drive%';
+
+select *
+from person
+where name LIKE '%ez';
+
