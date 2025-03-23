@@ -20,3 +20,9 @@ A body was found floating near the docks of Coral Bay Marina in the early hours 
 
 Objectives
 1. Find the murderer. ( Start by finding the crime scene and go from there )
+
+Case #004: The Midnight Masquerade Murder
+On October 31, 1987, at a Coconut Grove mansion masked ball, Leonard Pierce was found dead in the garden. Can you piece together all the clues to expose the true murderer?
+
+Objectives
+1. Reveal the true murderer of this complex case.
